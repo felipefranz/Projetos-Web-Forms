@@ -1,0 +1,390 @@
+﻿<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9E42F0DB-EEF6-4E58-9645-A27C71462E2B}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>waConhecendoOsComponetes</RootNamespace>
+    <AssemblyName>waConhecendoOsComponetes</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\Agenda.mdf" />
+    <Content Include="App_Data\Agenda_log.ldf">
+      <DependentUpon>Agenda.mdf</DependentUpon>
+    </Content>
+    <Content Include="Beta\adRotator.aspx" />
+    <Content Include="Beta\ImageMap.aspx" />
+    <Content Include="Beta\propagandas.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Beta\ValidacaoCampos.aspx" />
+    <Content Include="Beta\wMenuBeta.aspx" />
+    <Content Include="Cookie1.aspx" />
+    <Content Include="duvidaDropDownList.aspx" />
+    <Content Include="Exemplo.aspx" />
+    <Content Include="imagens\1.jpg" />
+    <Content Include="imagens\2.jpg" />
+    <Content Include="imagens\Curso2.jpg" />
+    <Content Include="imagens\Curso1.jpg" />
+    <Content Include="imagens\exemplopropagandas.jpg" />
+    <Content Include="imagens\One-Piece-Chibi-PNG-Image.png" />
+    <Content Include="imagens\OnePiecePoster.png" />
+    <Content Include="imagens\one_piece__franky_chibi_by_kanokawa-d7hpm2z.png" />
+    <Content Include="imagens\tony_tony_chopper_happy___o_p_by_leandrojvarini-d47io7j.png" />
+    <Content Include="index.aspx" />
+    <Content Include="packages.config" />
+    <Content Include="ValidarCPF.aspx" />
+    <Content Include="wfDataList.aspx" />
+    <Content Include="wfGridView.aspx" />
+    <Content Include="wfListView.aspx" />
+    <Content Include="wfUpload.aspx" />
+    <Content Include="wfValidation.aspx" />
+    <Content Include="wfWizard.aspx" />
+    <Content Include="wMenu.aspx" />
+    <Content Include="wSession.aspx" />
+    <Content Include="wucMenu.ascx" />
+    <Content Include="Modelo.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <Content Include="Beta\Web.sitemap">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.sitemap">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Pagina1.aspx" />
+    <Content Include="pagina2.aspx" />
+    <Content Include="propaganda.xml" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Beta\wfBulletListBeta.aspx" />
+    <Content Include="wfAlteraTamanhoFonte.aspx" />
+    <Content Include="wfBasicoJavaScript.aspx" />
+    <Content Include="wfComponentes1.aspx" />
+    <Content Include="wfCursos.aspx" />
+    <Content Include="wfDiasDeVida.aspx" />
+    <Content Include="wfParOuImparFatorial.aspx" />
+    <Content Include="wfSitesParceiros.aspx" />
+    <Content Include="wfTabuada.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Beta\adRotator.aspx.cs">
+      <DependentUpon>adRotator.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Beta\adRotator.aspx.designer.cs">
+      <DependentUpon>adRotator.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Beta\ImageMap.aspx.cs">
+      <DependentUpon>ImageMap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Beta\ImageMap.aspx.designer.cs">
+      <DependentUpon>ImageMap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Beta\ValidacaoCampos.aspx.cs">
+      <DependentUpon>ValidacaoCampos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Beta\ValidacaoCampos.aspx.designer.cs">
+      <DependentUpon>ValidacaoCampos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Beta\wMenuBeta.aspx.cs">
+      <DependentUpon>wMenuBeta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Beta\wMenuBeta.aspx.designer.cs">
+      <DependentUpon>wMenuBeta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Cookie1.aspx.cs">
+      <DependentUpon>Cookie1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cookie1.aspx.designer.cs">
+      <DependentUpon>Cookie1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="duvidaDropDownList.aspx.cs">
+      <DependentUpon>duvidaDropDownList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="duvidaDropDownList.aspx.designer.cs">
+      <DependentUpon>duvidaDropDownList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Exemplo.aspx.cs">
+      <DependentUpon>Exemplo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Exemplo.aspx.designer.cs">
+      <DependentUpon>Exemplo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modelo.Master.cs">
+      <DependentUpon>Modelo.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modelo.Master.designer.cs">
+      <DependentUpon>Modelo.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Pagina1.aspx.cs">
+      <DependentUpon>Pagina1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pagina1.aspx.designer.cs">
+      <DependentUpon>Pagina1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pagina2.aspx.cs">
+      <DependentUpon>pagina2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pagina2.aspx.designer.cs">
+      <DependentUpon>pagina2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Beta\wfBulletListBeta.aspx.cs">
+      <DependentUpon>wfBulletListBeta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Beta\wfBulletListBeta.aspx.designer.cs">
+      <DependentUpon>wfBulletListBeta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ValidarCPF.aspx.cs">
+      <DependentUpon>ValidarCPF.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ValidarCPF.aspx.designer.cs">
+      <DependentUpon>ValidarCPF.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wfAlteraTamanhoFonte.aspx.cs">
+      <DependentUpon>wfAlteraTamanhoFonte.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wfAlteraTamanhoFonte.aspx.designer.cs">
+      <DependentUpon>wfAlteraTamanhoFonte.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wfBasicoJavaScript.aspx.cs">
+      <DependentUpon>wfBasicoJavaScript.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wfBasicoJavaScript.aspx.designer.cs">
+      <DependentUpon>wfBasicoJavaScript.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wfComponentes1.aspx.cs">
+      <DependentUpon>wfComponentes1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wfComponentes1.aspx.designer.cs">
+      <DependentUpon>wfComponentes1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wfCursos.aspx.cs">
+      <DependentUpon>wfCursos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wfCursos.aspx.designer.cs">
+      <DependentUpon>wfCursos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wfDataList.aspx.cs">
+      <DependentUpon>wfDataList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wfDataList.aspx.designer.cs">
+      <DependentUpon>wfDataList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wfDiasDeVida.aspx.cs">
+      <DependentUpon>wfDiasDeVida.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wfDiasDeVida.aspx.designer.cs">
+      <DependentUpon>wfDiasDeVida.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wfGridView.aspx.cs">
+      <DependentUpon>wfGridView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wfGridView.aspx.designer.cs">
+      <DependentUpon>wfGridView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wfListView.aspx.cs">
+      <DependentUpon>wfListView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wfListView.aspx.designer.cs">
+      <DependentUpon>wfListView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wfParOuImparFatorial.aspx.cs">
+      <DependentUpon>wfParOuImparFatorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wfParOuImparFatorial.aspx.designer.cs">
+      <DependentUpon>wfParOuImparFatorial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wfSitesParceiros.aspx.cs">
+      <DependentUpon>wfSitesParceiros.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wfSitesParceiros.aspx.designer.cs">
+      <DependentUpon>wfSitesParceiros.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wfTabuada.aspx.cs">
+      <DependentUpon>wfTabuada.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wfTabuada.aspx.designer.cs">
+      <DependentUpon>wfTabuada.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wfUpload.aspx.cs">
+      <DependentUpon>wfUpload.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wfUpload.aspx.designer.cs">
+      <DependentUpon>wfUpload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wfValidation.aspx.cs">
+      <DependentUpon>wfValidation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wfValidation.aspx.designer.cs">
+      <DependentUpon>wfValidation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wfWizard.aspx.cs">
+      <DependentUpon>wfWizard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wfWizard.aspx.designer.cs">
+      <DependentUpon>wfWizard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wMenu.aspx.cs">
+      <DependentUpon>wMenu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wMenu.aspx.designer.cs">
+      <DependentUpon>wMenu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wSession.aspx.cs">
+      <DependentUpon>wSession.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wSession.aspx.designer.cs">
+      <DependentUpon>wSession.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wucMenu.ascx.cs">
+      <DependentUpon>wucMenu.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wucMenu.ascx.designer.cs">
+      <DependentUpon>wucMenu.ascx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="upload\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>50599</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:50599/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este projeto faz referência a pacotes do NuGet que não estão presentes neste computador. Use a Restauração de Pacotes do NuGet para baixá-los.  Para obter mais informações, consulte http://go.microsoft.com/fwlink/?LinkID=322105. O arquivo ausente é {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

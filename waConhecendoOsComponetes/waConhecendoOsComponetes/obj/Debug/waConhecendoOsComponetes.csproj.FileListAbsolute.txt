@@ -1,0 +1,108 @@
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\csc.exe
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\csc.exe.config
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\csc.rsp
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\csi.exe
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\csi.rsp
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.AppContext.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.Collections.Immutable.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.IO.FileSystem.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.Reflection.Metadata.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\vbc.exe
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\vbc.exe.config
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\vbc.rsp
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\VBCSCompiler.exe
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\VBCSCompiler.exe.config
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\waConhecendoOsComponetes.dll.config
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\waConhecendoOsComponetes.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\waConhecendoOsComponetes.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\obj\Debug\waConhecendoOsComponetes.csproj.CoreCompileInputs.cache
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\obj\Debug\waConhecendoOsComponetes.csproj.CopyComplete
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\obj\Debug\waConhecendoOsComponetes.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\obj\Debug\waConhecendoOsComponetes.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\waConhecendoOsComponetes\waConhecendoOsComponetes\obj\Debug\waConhecendoOsComponetes.csprojResolveAssemblyReference.cache
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\csc.exe
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\csc.exe.config
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\csc.rsp
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\csi.exe
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\csi.rsp
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.AppContext.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\vbc.exe
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\vbc.exe.config
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\vbc.rsp
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\waConhecendoOsComponetes.dll.config
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\waConhecendoOsComponetes.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\waConhecendoOsComponetes.pdb
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\obj\Debug\waConhecendoOsComponetes.csprojAssemblyReference.cache
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\obj\Debug\waConhecendoOsComponetes.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\obj\Debug\waConhecendoOsComponetes.csproj.CopyComplete
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\obj\Debug\waConhecendoOsComponetes.dll
+C:\Users\Danilo Filitto\source\repos\waConhecendoOsComponetes\waConhecendoOsComponetes\obj\Debug\waConhecendoOsComponetes.pdb
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\csc.exe
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\csc.exe.config
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\csc.rsp
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\csi.exe
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\csi.rsp
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.AppContext.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.Collections.Immutable.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.IO.FileSystem.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\vbc.exe
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\vbc.exe.config
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\vbc.rsp
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\VBCSCompiler.exe
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\roslyn\VBCSCompiler.exe.config
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\waConhecendoOsComponetes.dll.config
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\waConhecendoOsComponetes.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\waConhecendoOsComponetes.pdb
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\obj\Debug\waConhecendoOsComponetes.csprojAssemblyReference.cache
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\obj\Debug\waConhecendoOsComponetes.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\obj\Debug\waConhecendoOsComponetes.csproj.CopyComplete
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\obj\Debug\waConhecendoOsComponetes.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\waConhecendoOsComponetes\waConhecendoOsComponetes\obj\Debug\waConhecendoOsComponetes.pdb

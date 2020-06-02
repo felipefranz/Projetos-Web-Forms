@@ -1,0 +1,115 @@
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\csc.exe
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\csc.exe.config
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\csc.rsp
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\csi.exe
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\csi.exe.config
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\csi.rsp
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.Win32.Primitives.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.AppContext.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Collections.Immutable.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Console.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Diagnostics.Process.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.IO.Compression.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.IO.FileSystem.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.IO.Pipes.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Reflection.Metadata.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Security.AccessControl.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Security.Claims.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Security.Principal.Windows.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Threading.Thread.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.ValueTuple.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Xml.XmlDocument.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Xml.XPath.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\vbc.exe
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\vbc.exe.config
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\vbc.rsp
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\VBCSCompiler.exe
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\roslyn\VBCSCompiler.exe.config
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\ASPModulo2.dll.config
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\ASPModulo2.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\ASPModulo2.pdb
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\obj\Debug\ASPModulo2.csprojResolveAssemblyReference.cache
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\obj\Debug\ASPModulo2.csproj.CoreCompileInputs.cache
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\obj\Debug\ASPModulo2.dll
+d:\danilo filitto\documents\visual studio 2017\Projects\ASPModulo2\ASPModulo2\obj\Debug\ASPModulo2.pdb
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\csc.exe
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\csc.exe.config
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\csc.rsp
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\csi.exe
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\csi.exe.config
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\csi.rsp
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.AppContext.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Collections.Immutable.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Console.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Diagnostics.Process.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.IO.Compression.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.IO.FileSystem.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.IO.Pipes.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Security.AccessControl.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Security.Claims.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Threading.Thread.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.ValueTuple.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Xml.XPath.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\vbc.exe
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\vbc.exe.config
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\vbc.rsp
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\VBCSCompiler.exe
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\roslyn\VBCSCompiler.exe.config
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\ASPModulo2.dll.config
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\ASPModulo2.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\ASPModulo2.pdb
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\obj\Debug\ASPModulo2.csprojAssemblyReference.cache
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\obj\Debug\ASPModulo2.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\obj\Debug\ASPModulo2.csproj.CopyComplete
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\obj\Debug\ASPModulo2.dll
+C:\Desenvolvimento_Sistemas\Projetos Web Forms\ASPModulo2\ASPModulo2\obj\Debug\ASPModulo2.pdb
